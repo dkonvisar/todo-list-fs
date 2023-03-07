@@ -2,10 +2,13 @@
     "feed dog": {
         "completed": false
     },
-    "but sweets": {
+    "buy sweets": {
         "completed": false
     },
     "do homework": {
+        "completed": false
+    },
+    "wash the dishes": {
         "completed": false
     }
 }
